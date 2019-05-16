@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\bin\Debug\netcoreapp2.1\MarkToGrade.deps.json
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\bin\Debug\netcoreapp2.1\MarkToGrade.runtimeconfig.json
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\bin\Debug\netcoreapp2.1\MarkToGrade.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\bin\Debug\netcoreapp2.1\MarkToGrade.dll
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\bin\Debug\netcoreapp2.1\MarkToGrade.pdb
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\obj\Debug\netcoreapp2.1\MarkToGrade.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\obj\Debug\netcoreapp2.1\MarkToGrade.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\obj\Debug\netcoreapp2.1\MarkToGrade.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\obj\Debug\netcoreapp2.1\MarkToGrade.dll
+C:\Users\Admin\source\repos\MarkToGrade\MarkToGrade\obj\Debug\netcoreapp2.1\MarkToGrade.pdb
